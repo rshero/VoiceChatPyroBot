@@ -3,7 +3,7 @@ from pyrogram import filters
 from helpers import get_banned_users
 
 # Get these two from https://my.telegram.org
-API_ID = 1234567
+API_ID = 2393679
 API_HASH = "ab1c23def45fg67890h123i45678j9kl"
 
 # Get this from @Botfather
