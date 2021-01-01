@@ -3,9 +3,6 @@
 ## Help
 If you face an error, want to discuss this project or get support for it, join [@su_Chats](https://t.me/su_Chats).
 
-## Inspiration & Idea
-[@TwitFace, AKA Andrew Lungers](https://t.me/TwitFace)
-
 ## Requirements
 * A computer running a Linux distribution with a desktop environment (if you are on VPS and don't have one, refer to [this](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/use-remote-desktop)),
 * the latest version of Telegram desktop,
@@ -113,6 +110,6 @@ If you face an error, want to discuss this project or get support for it, join [
 3. Keep track of previous and completed media requests.
 
 ## Authors & Acknowledgment
-
+* [@TwitFace, AKA Andrew Lungers](https://t.me/TwitFace): idea & inspiration
 
 ## License
