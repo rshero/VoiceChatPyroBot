@@ -110,6 +110,8 @@ If you face an error, want to discuss this project or get support for it, join [
 3. Keep track of previous and completed media requests.
 
 ## Authors & Acknowledgment
-* [@TwitFace, AKA Andrew Lungers](https://t.me/TwitFace): idea & inspiration
+* @AndrewXLane ([Telegram](https://t.me/TwitFace)): inspiration
+* @rojserbest ([Telegram](https://t.me/su_Theta)): head dev & Kurdish
+* @iiiiii1wepfj ([Telegram](https://t.me/itayki)): co-worker, ideas & Hebrew
 
 ## License
