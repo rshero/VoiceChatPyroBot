@@ -41,15 +41,15 @@ From Mr. [@TwitFace, AKA Andrew Lungers](https://t.me/TwitFace).
     `DUR_LIMIT` int: max video duration in minutes for downloads
 
 4. Install the required Python packages:
-```
+```bash
     pip(3) install -U -r requirements.txt
 ```
 5. Make sure pulseaudio is running and load a null sink named `MySink` by running:
-```
+```bash
     bash pa.sh
 ```
 6. Run the bot:
-```
+```bash
     python(3) bot.py
 ```
 7. Open Telegram desktop, join a voice chat and set `MySink.monitor` as your microphone, if you can't see `MySink.monitor`:
@@ -57,4 +57,82 @@ From Mr. [@TwitFace, AKA Andrew Lungers](https://t.me/TwitFace).
     2. The configurations tab.
     3. Turn the configs/profiles you see off.
 9. Once you've done the steps above, you can start using and sending commands to your bot to stream in the voice chat you are currently in with Telegram desktop!
+
+
+## How to use
+
+#### Method 1
+
+1. Search for a song in [Youtube]( "https://youtube.com")
+2. Copy the complete video URL to clipboard and send the exact URL to BOT
+
+
+#### Method 2
+
+1. Enable Inline search  for  specific BOT in  [@BotFather](https://t.me/BotFather)
+2. Open the bot profile and tag the bot @yourBotName followed by search query.
+
+
+## Bot Commands
+#### Inorder to command the bot send the below mentioned command with  **/**  prefix
+
+
+* `start`  - start the bot
+
+* `song`   - check the playing song
+
+* `volume` - check the current volume
+
+* `queue`  - check songs in the queue
+
+* `pause`  - pause the playing song (Sudo Users)
+
+* `resume` - resume the paused song (Sudo Users)
+
+* `play` - same as resume (Sudo Users)
+
+* `ban` - ban a user (Sudo Users)
+
+* `unban` - unban a user (Sudo Users)
+
+* `bans` - see banned users (Sudo Users)
+
+* `skip` - skip the playing song (Sudo Users) 
+
+* `stream` - stream a radio (Sudo Users)
+
+* `cleardownloads` - delete all downloads (Sudo Users)
+
+
+## Features
+
+1. Can Play or Pause the video  
+2. Control Volume 
+3. Check and update the queue
+4. Skip a song
+5. Ban and unban users in realtime 
+6. Set Max Duration of media one can add to bot 
+7. Stream an Internet Radio
+8. Clear old downloaded media
+
+## Roadmap & Requests
+
+1. Migrate to proper Database like SQLite for storing media queue and user requests.
+2. Fix issue related to duration 
+3. Keep track of previous and completed media requests
+
+
+
+## Authors and Acknowledgment
+
+
+
+
+
+
+
+## License
+
+
+
 
