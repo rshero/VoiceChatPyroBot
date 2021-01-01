@@ -59,14 +59,14 @@ If you face an error, want to discuss this project or get support for it, join [
 
 #### Method 1
 
-1. Search for a song in [Youtube]( "https://youtube.com")
-2. Copy the complete video URL to clipboard and send the exact URL to BOT
+1. Open [YouTube]( "https://youtube.com") in your browser, and search for a song.
+2. Copy the complete video URL to clipboard and send it to your bot in private.
 
 
 #### Method 2
 
-1. Enable Inline search  for  specific BOT in  [@BotFather](https://t.me/BotFather)
-2. Open the bot profile and tag the bot @yourBotName followed by search query.
+1. Enable inline for you bot in  [@BotFather](https://t.me/BotFather).
+2. In your bot's private, type @usernameOfYourBot followed by your YouTube search query, and click a result.
 
 
 ## Bot Commands
@@ -102,33 +102,17 @@ If you face an error, want to discuss this project or get support for it, join [
 
 ## Features
 
-1. Can Play or Pause the video  
-2. Control Volume 
-3. Check and update the queue
-4. Skip a song
-5. Ban and unban users in realtime 
-6. Set Max Duration of media one can add to bot 
-7. Stream an Internet Radio
-8. Clear old downloaded media
+1. Download, queue and play videos from YouTube.
+2. Stream any internet radio.
+3. Ban and unban users from using the bot.
 
-## Roadmap & Requests
+## TODOS
 
 1. Migrate to proper Database like SQLite for storing media queue and user requests.
-2. Fix issue related to duration 
-3. Keep track of previous and completed media requests
+2. Fix issue related to displaying duration.
+3. Keep track of previous and completed media requests.
 
-
-
-## Authors and Acknowledgment
-
-
-
-
-
+## Authors & Acknowledgment
 
 
 ## License
-
-
-
-
