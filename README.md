@@ -124,6 +124,6 @@ If you face an error, want to discuss this project or get support for it, join [
 * [@zomenaro](https://github.com/zomenaro)
 * [@subinps](https://github.com/subinps)
 * [@NicolaSmaniotto](https://github.com/NicolaSmaniotto)
-* [@sppiy](https://github.com/sppidy)
+* [@sppidy](https://github.com/sppidy)
 
 ## License
