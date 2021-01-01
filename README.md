@@ -117,5 +117,8 @@ If you face an error, want to discuss this project or get support for it, join [
 ### Development & contribution
 * [@rojserbest](https://github.com/rojserbest) ([Telegram](https://t.me/su_Theta))
 * [@iiiiii1wepfj](https://github.com/iiiiii1wepfj) ([Telegram](https://t.me/itayki))
+* [@ByteOPCode](https://github.com/ByteOPCode) ([Telegram](https://t.me/BAZINGA))
+* [@pokurt](https://github.com/pokurt) ([Telegram](https://t.me/DeprecatedUser))
+* [@SpEcHIDe](https://github.com/SpEcHIDe) ([Telegram](https://t.me/SpEcHIDe))
 
 ## License
