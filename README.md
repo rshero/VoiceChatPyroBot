@@ -52,7 +52,7 @@ If you face an error, want to discuss this project or get support for it, join [
 9. Once you've done the steps above, you can start using and sending commands to your bot to stream in the voice chat you are currently in with Telegram desktop!
 
 
-## How to use
+## Usage
 
 #### Method 1
 
@@ -119,6 +119,11 @@ If you face an error, want to discuss this project or get support for it, join [
 * [@iiiiii1wepfj](https://github.com/iiiiii1wepfj) ([Telegram](https://t.me/itayki))
 * [@ByteOPCode](https://github.com/ByteOPCode) ([Telegram](https://t.me/BAZINGA))
 * [@pokurt](https://github.com/pokurt) ([Telegram](https://t.me/DeprecatedUser))
-* [@SpEcHIDe](https://github.com/SpEcHIDe) ([Telegram](https://t.me/SpEcHIDe))
+* [@SpEcHiDe](https://github.com/SpEcHiDe) ([Telegram](https://t.me/SpEcHIDe))
+* [@sudoAlphaX](https://github.com/sudoAlphaX) ([Telegram](https://t.me/su_Alpha))
+* [@zomenaro](https://github.com/zomenaro)
+* [@subinps](https://github.com/subinps)
+* [@NicolaSmaniotto](https://github.com/NicolaSmaniotto)
+* [@spiddy](https://github.com/spiddy)
 
 ## License
