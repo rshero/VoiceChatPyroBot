@@ -1,7 +1,7 @@
 # Pyrogram bot to automate streaming music in voice chats
 
 ## Help
-If you face an error, want to discuss this project or get support for it join [@su_Chats](https://t.me/su_Chats).
+If you face an error, want to discuss this project or get support for it, join [@su_Chats](https://t.me/su_Chats).
 
 ## Inspiration & Idea
 [@TwitFace, AKA Andrew Lungers](https://t.me/TwitFace)
