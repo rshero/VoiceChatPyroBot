@@ -115,7 +115,7 @@ If you face an error, want to discuss this project or get support for it, join [
 * [@AndrewLaneX](https://github.com/AndrewLaneX) ([Telegram](https://t.me/TwitFace))
 
 ### Development
-* [@rojserbest](https://github.com/AndrewLaneX) ([Telegram](https://t.me/su_Theta))
-* [@iiiiii1wepfj](https://github.com/AndrewLaneX) ([Telegram](https://t.me/itayki))
+* [@rojserbest](https://github.com/rojserbest) ([Telegram](https://t.me/su_Theta))
+* [@iiiiii1wepfj](https://github.com/iiiiii1wepfj) ([Telegram](https://t.me/itayki))
 
 ## License
