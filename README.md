@@ -110,8 +110,12 @@ If you face an error, want to discuss this project or get support for it, join [
 3. Keep track of previous and completed media requests.
 
 ## Authors & Acknowledgment
-* [@AndrewXLane](https://github.com/AndrewXLane) ([Telegram](https://t.me/TwitFace)): inspiration
-* @rojserbest ([Telegram](https://t.me/su_Theta)): head dev & Kurdish
-* @iiiiii1wepfj ([Telegram](https://t.me/itayki)): co-worker, ideas & Hebrew
+
+### Inspiration
+* [@AndrewXLane](https://github.com/AndrewXLane) ([Telegram](https://t.me/TwitFace))
+
+### Development
+* @rojserbest ([Telegram](https://t.me/su_Theta))
+* @iiiiii1wepfj ([Telegram](https://t.me/itayki))
 
 ## License
